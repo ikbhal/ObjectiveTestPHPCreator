@@ -1,0 +1,8 @@
+question
+id,text, created
+
+choice
+id,text,qid, created
+
+answer
+id,qid,cid,created
